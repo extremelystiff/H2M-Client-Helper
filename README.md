@@ -11,13 +11,13 @@ Double-click a server to connect directly in-game
 Save favorite servers based on ping or player count
 Supports other games in addition to H2M
 
-### Installation
+## Installation
 
 Ensure you have PowerShell installed on your Windows system
 Download the H2MServerBrowser.ps1 script
 Place the script in a convenient location
 
-#### Usage
+## Usage
 
 Right-click the H2MServerBrowser.ps1 script and select "Run with PowerShell"
 The H2M Server Browser window will appear
